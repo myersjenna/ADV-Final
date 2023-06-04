@@ -1,182 +1,182 @@
 ﻿code,name,pop,waterpercent
-AFG,Afghanistan,327,NA
-ALB,Albania,"1,485",NA
+AFG,Afghanistan,327,0
+ALB,Albania,"1,485",0
 DZA,Algeria,89,0.72
 AGO,Angola,"1,010",0.42
-ATG,Antigua and Barbuda,"1,030",NA
-ARG,Argentina,591,NA
-ARM,Armenia,562,NA
-AUS,Australia,534,NA
-AUT,Austria,"1,110",NA
-AZE,Azerbaijan,447,NA
-BHS,Bahamas,"1,292",NA
-BHR,Bahrain,83,NA
-BGD,Bangladesh,"2,666",NA
-BRB,Barbados,"1,422",NA
-BLR,Belarus,618,NA
-BEL,Belgium,847,NA
-BLZ,Belize,"1,705",NA
+ATG,Antigua and Barbuda,"1,030",0
+ARG,Argentina,591,0
+ARM,Armenia,562,0
+AUS,Australia,534,0
+AUT,Austria,"1,110",0
+AZE,Azerbaijan,447,0
+BHS,Bahamas,"1,292",0
+BHR,Bahrain,83,0
+BGD,Bangladesh,"2,666",0
+BRB,Barbados,"1,422",0
+BLR,Belarus,618,0
+BEL,Belgium,847,0
+BLZ,Belize,"1,705",0
 BEN,Benin,"1,039",0.3
-BTN,Bhutan,"2,200",NA
-#N/A,Bolivia,"1,146",NA
-BIH,Bosnia and Herzegovina,"1,028",NA
+BTN,Bhutan,"2,200",0
+#N/A,Bolivia,"1,146",0
+BIH,Bosnia and Herzegovina,"1,028",0
 BWA,Botswana,416,0.92
-BRA,Brazil,"1,761",NA
-#N/A,Brunei,"2,722",NA
-BGR,Bulgaria,608,NA
+BRA,Brazil,"1,761",0
+#N/A,Brunei,"2,722",0
+BGR,Bulgaria,608,0
 BFA,Burkina Faso,748,0.47
 BDI,Burundi,"1,274",0.62
-KHM,Cambodia,"1,904",NA
+KHM,Cambodia,"1,904",0
 CMR,Cameroon,"1,604",0.66
-CAN,Canada,537,NA
-#N/A,Cape Verde,228,NA
+CAN,Canada,537,0
+#N/A,Cape Verde,228,0
 CAF,Central African Republic,"1,343",0.06
 TCD,Chad,322,0.06
-CHL,Chile,"1,522",NA
-CHN,China,645,NA
-COL,Colombia,"3,240",NA
+CHL,Chile,"1,522",0
+CHN,China,645,0
+COL,Colombia,"3,240",0
 COM,Comoros,900,0.8
 COG,Congo,"1,646",0.19
-CRI,Costa Rica,"2,926",NA
-HRV,Croatia,"1,113",NA
-CUB,Cuba,"1,335",NA
-CYP,Cyprus,498,NA
-#N/A,Czech Republic,677,NA
-DNK,Denmark,703,NA
+CRI,Costa Rica,"2,926",0
+HRV,Croatia,"1,113",0
+CUB,Cuba,"1,335",0
+CYP,Cyprus,498,0
+#N/A,Czech Republic,677,0
+DNK,Denmark,703,0
 DJI,Djibouti,220,0.76
-DMA,Dominica,"2,083",NA
-DOM,Dominican Republic,"1,410",NA
+DMA,Dominica,"2,083",0
+DOM,Dominican Republic,"1,410",0
 COD,DR Congo,"1,543",0.46
-#N/A,East Timor,"1,500",NA
-ECU,Ecuador,"2,274",NA
+#N/A,East Timor,"1,500",0
+ECU,Ecuador,"2,274",0
 EGY,Egypt,18,0.99
-SLV,El Salvador,"1,784",NA
+SLV,El Salvador,"1,784",0
 GNQ,Equatorial Guinea,"2,156",0.65
 ERI,Eritrea,384,0.52
-EST,Estonia,626,
+EST,Estonia,626,0
 SWZ,Eswatini,788,0.71
 ETH,Ethiopia,848,0.13
-FJI,Fiji,"2,592",NA
-FIN,Finland,536,NA
-FRA,France,867,NA
+FJI,Fiji,"2,592",0
+FIN,Finland,536,0
+FRA,France,867,0
 GAB,Gabon,"1,831",0.85
 GMB,Gambia,836,0.81
-GEO,Georgia,"1,026",NA
-DEU,Germany,700,NA
+GEO,Georgia,"1,026",0
+DEU,Germany,700,0
 GHA,Ghana,"1,187",0.41
-GRC,Greece,652,NA
-#N/A,Grenada[a],"2,350",NA
-GTM,Guatemala,"1,996",NA
+GRC,Greece,652,0
+#N/A,Grenada[a],"2,350",0
+GTM,Guatemala,"1,996",0
 GIN,Guinea,"1,651",0.64
 GNB,Guinea-Bissau,"1,577",0.24
 GUY,Guyana,"2,387",0.96
-HTI,Haiti,"1,440",NA
-HND,Honduras,"1,976",NA
-HUN,Hungary,589,NA
-ISL,Iceland,"1,940",NA
-IND,India,"1,083",NA
-IDN,Indonesia,"2,702",NA
-#N/A,Iran,228,NA
-IRQ,Iraq,216,NA
-IRL,Ireland,"1,118",NA
-ISR,Israel,435,NA
-ITA,Italy,832,NA
+HTI,Haiti,"1,440",0
+HND,Honduras,"1,976",0
+HUN,Hungary,589,0
+ISL,Iceland,"1,940",0
+IND,India,"1,083",0
+IDN,Indonesia,"2,702",0
+#N/A,Iran,228,0
+IRQ,Iraq,216,0
+IRL,Ireland,"1,118",0
+ISR,Israel,435,0
+ITA,Italy,832,0
 CIV,Ivory Coast,"1,348",0.71
-JAM,Jamaica,"2,051",NA
-JPN,Japan,"1,668",NA
-JOR,Jordan,111,NA
-KAZ,Kazakhstan,250,NA
+JAM,Jamaica,"2,051",0
+JPN,Japan,"1,668",0
+JOR,Jordan,111,0
+KAZ,Kazakhstan,250,0
 KEN,Kenya,630,0.62
-KWT,Kuwait,121,NA
-KGZ,Kyrgyzstan,533,NA
-#N/A,Laos,"1,834",NA
-LVA,Latvia,667,NA
-LBN,Lebanon,661,NA
+KWT,Kuwait,121,0
+KGZ,Kyrgyzstan,533,0
+#N/A,Laos,"1,834",0
+LVA,Latvia,667,0
+LBN,Lebanon,661,0
 LSO,Lesotho,788,0.72
 LBR,Liberia,"2,391",0.75
 LBY,Libya,56,1
-LTU,Lithuania,656,NA
-LUX,Luxembourg,934,NA
+LTU,Lithuania,656,0
+LUX,Luxembourg,934,0
 MDG,Madagascar,"1,513",0.21
 MWI,Malawi,"1,181",0.7
-MYS,Malaysia,"2,875",NA
-MDV,Maldives,"1,972",NA
+MYS,Malaysia,"2,875",0
+MDV,Maldives,"1,972",0
 MLI,Mali,282,0.83
-MLT,Malta,560,NA
+MLT,Malta,560,0
 MRT,Mauritania,92,0.63
 MUS,Mauritius,"2,041",1
-MEX,Mexico,758,NA
-#N/A,Moldova,450,NA
-MNG,Mongolia,241,NA
+MEX,Mexico,758,0
+#N/A,Moldova,450,0
+MNG,Mongolia,241,0
 MAR,Morocco,346,0.8
 MOZ,Mozambique,"1,032",0.63
-MMR,Myanmar,"2,091",NA
+MMR,Myanmar,"2,091",0
 NAM,Namibia,285,0.84
-NLD,Netherlands,778,NA
-NZL,New Zealand,"1,732",NA
-NIC,Nicaragua,"2,280",NA
+NLD,Netherlands,778,0
+NZL,New Zealand,"1,732",0
+NIC,Nicaragua,"2,280",0
 NER,Niger,151,0.47
 NGA,Nigeria,"1,150",0.22
-#N/A,North Korea,"1,054",NA
-MKD,North Macedonia,619,NA
-NOR,Norway,"1,414",NA
-OMN,Oman,125,NA
-PAK,Pakistan,494,NA
-#N/A,Palestine[b],402,NA
-PAN,Panama,"2,928",NA
-PNG,Papua New Guinea,"3,142",NA
-PRY,Paraguay,"1,130",NA
-PER,Peru,"1,738",NA
-PHL,Philippines,"2,348",NA
-POL,Poland,600,NA
-PRT,Portugal,854,NA
-PRI,Puerto Rico,"2,054",NA
-QAT,Qatar,74,NA
-ROU,Romania,637,NA
-#N/A,Russia,460,NA
+#N/A,North Korea,"1,054",0
+MKD,North Macedonia,619,0
+NOR,Norway,"1,414",0
+OMN,Oman,125,0
+PAK,Pakistan,494,0
+#N/A,Palestine[b],402,0
+PAN,Panama,"2,928",0
+PNG,Papua New Guinea,"3,142",0
+PRY,Paraguay,"1,130",0
+PER,Peru,"1,738",0
+PHL,Philippines,"2,348",0
+POL,Poland,600,0
+PRT,Portugal,854,0
+PRI,Puerto Rico,"2,054",0
+QAT,Qatar,74,0
+ROU,Romania,637,0
+#N/A,Russia,460,0
 RWA,Rwanda,"1,212",0.6
-KNA,Saint Kitts and Nevis,"1,427",NA
-LCA,Saint Lucia,"2,301",NA
-VCT,Saint Vincent and the Grenadines,"1,583",NA
-WSM,Samoa,"2,880",NA
-STP,São Tomé and Príncipe,"3,200",NA
-SAU,Saudi Arabia,59,NA
+KNA,Saint Kitts and Nevis,"1,427",0
+LCA,Saint Lucia,"2,301",0
+VCT,Saint Vincent and the Grenadines,"1,583",0
+WSM,Samoa,"2,880",0
+STP,São Tomé and Príncipe,"3,200",0
+SAU,Saudi Arabia,59,0
 SEN,Senegal,686,0.85
-SYC,Seychelles,"2,330",NA
+SYC,Seychelles,"2,330",0
 SLE,Sierra Leone,"2,526",0.11
-SGP,Singapore,"2,497",NA
-SVK,Slovakia,824,NA
-SVN,Slovenia,"1,162",NA
-SLB,Solomon Islands,"3,028",NA
+SGP,Singapore,"2,497",0
+SVK,Slovakia,824,0
+SVN,Slovenia,"1,162",0
+SLB,Solomon Islands,"3,028",0
 SOM,Somalia,282,0.56
 ZAF,South Africa,495,94
-#N/A,South Korea,"1,274",NA
+#N/A,South Korea,"1,274",0
 SSD,South Sudan,900,0.41
-ESP,Spain,636,NA
-LKA,Sri Lanka,"1,712",NA
+ESP,Spain,636,0
+LKA,Sri Lanka,"1,712",0
 SDN,Sudan,250,0.52
 SUR,Suriname,"2,331",0.98
-SWE,Sweden,624,NA
-CHE,Switzerland,"1,537",NA
-#N/A,Syria,252,NA
-TJK,Tajikistan,691,NA
+SWE,Sweden,624,0
+CHE,Switzerland,"1,537",0
+#N/A,Syria,252,0
+TJK,Tajikistan,691,0
 TZA,Tanzania,"1,071",0.61
-THA,Thailand,"1,622",NA
+THA,Thailand,"1,622",0
 TGO,Togo,"1,168",0.2
-TTO,Trinidad and Tobago,"2,200",NA
+TTO,Trinidad and Tobago,"2,200",0
 TUN,Tunisia,207,0.79
-TUR,Turkey,593,NA
-TKM,Turkmenistan,161,NA
+TUR,Turkey,593,0
+TKM,Turkmenistan,161,0
 UGA,Uganda,"1,180",0.17
-UKR,Ukraine,565,NA
-ARE,United Arab Emirates,78,NA
-#N/A,United Kingdom,"1,220",NA
-#N/A,United States,715,NA
-URY,Uruguay,"1,300",NA
-UZB,Uzbekistan,206,NA
-VUT,Vanuatu,"2,000",NA
-#N/A,Venezuela,"2,044",NA
-#N/A,Vietnam,"1,821",NA
-YEM,Yemen,167,NA
+UKR,Ukraine,565,0
+ARE,United Arab Emirates,78,0
+#N/A,United Kingdom,"1,220",0
+#N/A,United States,715,0
+URY,Uruguay,"1,300",0
+UZB,Uzbekistan,206,0
+VUT,Vanuatu,"2,000",0
+#N/A,Venezuela,"2,044",0
+#N/A,Vietnam,"1,821",0
+YEM,Yemen,167,0
 ZMB,Zambia,"1,020",0.65
 ZWE,Zimbabwe,657,0.3
