@@ -1,182 +1,182 @@
-﻿code,name,pop,waterpercent
-AFG,Afghanistan,327,0.00
-ALB,Albania,"1,485",0.00
-DZA,Algeria,89,0.72
-AGO,Angola,"1,010",0.42
-ATG,Antigua and Barbuda,"1,030",0.00
-ARG,Argentina,591,0.00
-ARM,Armenia,562,0.00
-AUS,Australia,534,0.00
-AUT,Austria,"1,110",0.00
-AZE,Azerbaijan,447,0.00
-BHS,Bahamas,"1,292",0.00
-BHR,Bahrain,83,0.00
-BGD,Bangladesh,"2,666",0.00
-BRB,Barbados,"1,422",0.00
-BLR,Belarus,618,0.00
-BEL,Belgium,847,0.00
-BLZ,Belize,"1,705",0.00
-BEN,Benin,"1,039",0.30
-BTN,Bhutan,"2,200",0.00
-#N/A,Bolivia,"1,146",0.00
-BIH,Bosnia and Herzegovina,"1,028",0.00
-BWA,Botswana,416,0.92
-BRA,Brazil,"1,761",0.00
-#N/A,Brunei,"2,722",0.00
-BGR,Bulgaria,608,0.00
-BFA,Burkina Faso,748,0.47
-BDI,Burundi,"1,274",0.62
-KHM,Cambodia,"1,904",0.00
-CMR,Cameroon,"1,604",0.66
-CAN,Canada,537,0.00
-#N/A,Cape Verde,228,0.00
-CAF,Central African Republic,"1,343",0.06
-TCD,Chad,322,0.06
-CHL,Chile,"1,522",0.00
-CHN,China,645,0.00
-COL,Colombia,"3,240",0.00
-COM,Comoros,900,0.80
-COG,Congo,"1,646",0.19
-CRI,Costa Rica,"2,926",0.00
-HRV,Croatia,"1,113",0.00
-CUB,Cuba,"1,335",0.00
-CYP,Cyprus,498,0.00
-#N/A,Czech Republic,677,0.00
-DNK,Denmark,703,0.00
-DJI,Djibouti,220,0.76
-DMA,Dominica,"2,083",0.00
-DOM,Dominican Republic,"1,410",0.00
-COD,DR Congo,"1,543",0.46
-#N/A,East Timor,"1,500",0.00
-ECU,Ecuador,"2,274",0.00
-EGY,Egypt,18,0.99
-SLV,El Salvador,"1,784",0.00
-GNQ,Equatorial Guinea,"2,156",0.65
-ERI,Eritrea,384,0.52
-EST,Estonia,626,0.00
-SWZ,Eswatini,788,0.71
-ETH,Ethiopia,848,0.13
-FJI,Fiji,"2,592",0.00
-FIN,Finland,536,0.00
-FRA,France,867,0.00
-GAB,Gabon,"1,831",0.85
-GMB,Gambia,836,0.81
-GEO,Georgia,"1,026",0.00
-DEU,Germany,700,0.00
-GHA,Ghana,"1,187",0.41
-GRC,Greece,652,0.00
-#N/A,Grenada[a],"2,350",0.00
-GTM,Guatemala,"1,996",0.00
-GIN,Guinea,"1,651",0.64
-GNB,Guinea-Bissau,"1,577",0.24
-GUY,Guyana,"2,387",0.96
-HTI,Haiti,"1,440",0.00
-HND,Honduras,"1,976",0.00
-HUN,Hungary,589,0.00
-ISL,Iceland,"1,940",0.00
-IND,India,"1,083",0.00
-IDN,Indonesia,"2,702",0.00
-#N/A,Iran,228,0.00
-IRQ,Iraq,216,0.00
-IRL,Ireland,"1,118",0.00
-ISR,Israel,435,0.00
-ITA,Italy,832,0.00
-CIV,Ivory Coast,"1,348",0.71
-JAM,Jamaica,"2,051",0.00
-JPN,Japan,"1,668",0.00
-JOR,Jordan,111,0.00
-KAZ,Kazakhstan,250,0.00
-KEN,Kenya,630,0.62
-KWT,Kuwait,121,0.00
-KGZ,Kyrgyzstan,533,0.00
-#N/A,Laos,"1,834",0.00
-LVA,Latvia,667,0.00
-LBN,Lebanon,661,0.00
-LSO,Lesotho,788,0.72
-LBR,Liberia,"2,391",0.75
-LBY,Libya,56,1.00
-LTU,Lithuania,656,0.00
-LUX,Luxembourg,934,0.00
-MDG,Madagascar,"1,513",0.21
-MWI,Malawi,"1,181",0.70
-MYS,Malaysia,"2,875",0.00
-MDV,Maldives,"1,972",0.00
-MLI,Mali,282,0.83
-MLT,Malta,560,0.00
-MRT,Mauritania,92,0.63
-MUS,Mauritius,"2,041",1.00
-MEX,Mexico,758,0.00
-#N/A,Moldova,450,0.00
-MNG,Mongolia,241,0.00
-MAR,Morocco,346,0.80
-MOZ,Mozambique,"1,032",0.63
-MMR,Myanmar,"2,091",0.00
-NAM,Namibia,285,0.84
-NLD,Netherlands,778,0.00
-NZL,New Zealand,"1,732",0.00
-NIC,Nicaragua,"2,280",0.00
-NER,Niger,151,0.47
-NGA,Nigeria,"1,150",0.22
-#N/A,North Korea,"1,054",0.00
-MKD,North Macedonia,619,0.00
-NOR,Norway,"1,414",0.00
-OMN,Oman,125,0.00
-PAK,Pakistan,494,0.00
-#N/A,Palestine[b],402,0.00
-PAN,Panama,"2,928",0.00
-PNG,Papua New Guinea,"3,142",0.00
-PRY,Paraguay,"1,130",0.00
-PER,Peru,"1,738",0.00
-PHL,Philippines,"2,348",0.00
-POL,Poland,600,0.00
-PRT,Portugal,854,0.00
-PRI,Puerto Rico,"2,054",0.00
-QAT,Qatar,74,0.00
-ROU,Romania,637,0.00
-#N/A,Russia,460,0.00
-RWA,Rwanda,"1,212",0.60
-KNA,Saint Kitts and Nevis,"1,427",0.00
-LCA,Saint Lucia,"2,301",0.00
-VCT,Saint Vincent and the Grenadines,"1,583",0.00
-WSM,Samoa,"2,880",0.00
-STP,São Tomé and Príncipe,"3,200",0.00
-SAU,Saudi Arabia,59,0.00
-SEN,Senegal,686,0.85
-SYC,Seychelles,"2,330",0.00
-SLE,Sierra Leone,"2,526",0.11
-SGP,Singapore,"2,497",0.00
-SVK,Slovakia,824,0.00
-SVN,Slovenia,"1,162",0.00
-SLB,Solomon Islands,"3,028",0.00
-SOM,Somalia,282,0.56
-ZAF,South Africa,495,0.94
-#N/A,South Korea,"1,274",0.00
-SSD,South Sudan,900,0.41
-ESP,Spain,636,0.00
-LKA,Sri Lanka,"1,712",0.00
-SDN,Sudan,250,0.52
-SUR,Suriname,"2,331",0.98
-SWE,Sweden,624,0.00
-CHE,Switzerland,"1,537",0.00
-#N/A,Syria,252,0.00
-TJK,Tajikistan,691,0.00
-TZA,Tanzania,"1,071",0.61
-THA,Thailand,"1,622",0.00
-TGO,Togo,"1,168",0.20
-TTO,Trinidad and Tobago,"2,200",0.00
-TUN,Tunisia,207,0.79
-TUR,Turkey,593,0.00
-TKM,Turkmenistan,161,0.00
-UGA,Uganda,"1,180",0.17
-UKR,Ukraine,565,0.00
-ARE,United Arab Emirates,78,0.00
-#N/A,United Kingdom,"1,220",0.00
-#N/A,United States,715,0.00
-URY,Uruguay,"1,300",0.00
-UZB,Uzbekistan,206,0.00
-VUT,Vanuatu,"2,000",0.00
-#N/A,Venezuela,"2,044",0.00
-#N/A,Vietnam,"1,821",0.00
-YEM,Yemen,167,0.00
-ZMB,Zambia,"1,020",0.65
-ZWE,Zimbabwe,657,0.30
+﻿code,name,pop,waterpercent,water_stress
+AFG,Afghanistan,327,0.00,0
+ALB,Albania,"1,485",0.00,0
+DZA,Algeria,89,0.72,137.92
+AGO,Angola,"1,010",0.42,1.87
+ATG,Antigua and Barbuda,"1,030",0.00,0
+ARG,Argentina,591,0.00,0
+ARM,Armenia,562,0.00,0
+AUS,Australia,534,0.00,0
+AUT,Austria,"1,110",0.00,0
+AZE,Azerbaijan,447,0.00,0
+BHS,Bahamas,"1,292",0.00,0
+BHR,Bahrain,83,0.00,0
+BGD,Bangladesh,"2,666",0.00,0
+BRB,Barbados,"1,422",0.00,0
+BLR,Belarus,618,0.00,0
+BEL,Belgium,847,0.00,0
+BLZ,Belize,"1,705",0.00,0
+BEN,Benin,"1,039",0.00,0
+BTN,Bhutan,"2,200",0.00,0
+#N/A,Bolivia,"1,146",0.00,0
+BIH,Bosnia and Herzegovina,"1,028",0.00,0
+BWA,Botswana,416,0.92,2.31
+BRA,Brazil,"1,761",0.00,0
+#N/A,Brunei,"2,722",0.00,0
+BGR,Bulgaria,608,0.00,0
+BFA,Burkina Faso,748,0.47,7.82
+BDI,Burundi,"1,274",0.62,10.19
+KHM,Cambodia,"1,904",0.00,0
+CMR,Cameroon,"1,604",0.66,1.56
+CAN,Canada,537,0.00,0
+#N/A,Cape Verde,228,0.00,0
+CAF,Central African Republic,"1,343",0.06,0.34
+TCD,Chad,322,0.06,4.29
+CHL,Chile,"1,522",0.00,0
+CHN,China,645,0.00,0
+COL,Colombia,"3,240",0.00,0
+COM,Comoros,900,0.80,0
+COG,Congo,"1,646",0.19,0.03
+CRI,Costa Rica,"2,926",0.00,0
+HRV,Croatia,"1,113",0.00,0
+CUB,Cuba,"1,335",0.00,0
+CYP,Cyprus,498,0.00,0
+#N/A,Czech Republic,677,0.00,0
+DNK,Denmark,703,0.00,0
+DJI,Djibouti,220,0.76,0
+DMA,Dominica,"2,083",0.00,0
+DOM,Dominican Republic,"1,410",0.00,0
+COD,DR Congo,"1,543",0.46,0.23
+#N/A,East Timor,"1,500",0.00,0
+ECU,Ecuador,"2,274",0.00,0
+EGY,Egypt,18,0.99,141.47
+SLV,El Salvador,"1,784",0.00,0
+GNQ,Equatorial Guinea,"2,156",0.65,0.18
+ERI,Eritrea,384,0.52,11.18
+EST,Estonia,626,0.00,0
+SWZ,Eswatini,788,0.71,77.56
+ETH,Ethiopia,848,0.13,32.26
+FJI,Fiji,"2,592",0.00,0
+FIN,Finland,536,0.00,0
+FRA,France,867,0.00,0
+GAB,Gabon,"1,831",0.85,0.5
+GMB,Gambia,836,0.81,2.21
+GEO,Georgia,"1,026",0.00,0
+DEU,Germany,700,0.00,0
+GHA,Ghana,"1,187",0.41,6.31
+GRC,Greece,652,0.00,0
+#N/A,Grenada[a],"2,350",0.00,0
+GTM,Guatemala,"1,996",0.00,0
+GIN,Guinea,"1,651",0.64,1.37
+GNB,Guinea-Bissau,"1,577",0.24,1.5
+GUY,Guyana,"2,387",0.96,3.3
+HTI,Haiti,"1,440",0.00,0
+HND,Honduras,"1,976",0.00,0
+HUN,Hungary,589,0.00,0
+ISL,Iceland,"1,940",0.00,0
+IND,India,"1,083",0.00,0
+IDN,Indonesia,"2,702",0.00,0
+#N/A,Iran,228,0.00,0
+IRQ,Iraq,216,0.00,0
+IRL,Ireland,"1,118",0.00,0
+ISR,Israel,435,0.00,0
+ITA,Italy,832,0.00,0
+CIV,Ivory Coast,"1,348",0.71,5.09
+JAM,Jamaica,"2,051",0.00,0
+JPN,Japan,"1,668",0.00,0
+JOR,Jordan,111,0.00,0
+KAZ,Kazakhstan,250,0.00,0
+KEN,Kenya,630,0.62,33.24
+KWT,Kuwait,121,0.00,0
+KGZ,Kyrgyzstan,533,0.00,0
+#N/A,Laos,"1,834",0.00,0
+LVA,Latvia,667,0.00,0
+LBN,Lebanon,661,0.00,0
+LSO,Lesotho,788,0.72,2.57
+LBR,Liberia,"2,391",0.75,0.26
+LBY,Libya,56,1.00,817.14
+LTU,Lithuania,656,0.00,0
+LUX,Luxembourg,934,0.00,0
+MDG,Madagascar,"1,513",0.21,11.26
+MWI,Malawi,"1,181",0.70,17.5
+MYS,Malaysia,"2,875",0.00,0
+MDV,Maldives,"1,972",0.00,0
+MLI,Mali,282,0.83,8
+MLT,Malta,560,0.00,81.86
+MRT,Mauritania,92,0.63,13.25
+MUS,Mauritius,"2,041",1.00,22.06
+MEX,Mexico,758,0.00,0
+#N/A,Moldova,450,0.00,0
+MNG,Mongolia,241,0.00,0
+MAR,Morocco,346,0.80,50.75
+MOZ,Mozambique,"1,032",0.63,1.75
+MMR,Myanmar,"2,091",0.00,0
+NAM,Namibia,285,0.84,0.86
+NLD,Netherlands,778,0.00,16.8
+NZL,New Zealand,"1,732",0.00,0
+NIC,Nicaragua,"2,280",0.00,0
+NER,Niger,151,0.47,11.02
+NGA,Nigeria,"1,150",0.22,9.67
+#N/A,North Korea,"1,054",0.00,0
+MKD,North Macedonia,619,0.00,0
+NOR,Norway,"1,414",0.00,0
+OMN,Oman,125,0.00,0
+PAK,Pakistan,494,0.00,0
+#N/A,Palestine[b],402,0.00,0
+PAN,Panama,"2,928",0.00,0
+PNG,Papua New Guinea,"3,142",0.00,0
+PRY,Paraguay,"1,130",0.00,0
+PER,Peru,"1,738",0.00,0
+PHL,Philippines,"2,348",0.00,0
+POL,Poland,600,0.00,0
+PRT,Portugal,854,0.00,0
+PRI,Puerto Rico,"2,054",0.00,0
+QAT,Qatar,74,0.00,0
+ROU,Romania,637,0.00,0
+#N/A,Russia,460,0.00,0
+RWA,Rwanda,"1,212",0.60,20.2
+KNA,Saint Kitts and Nevis,"1,427",0.00,0
+LCA,Saint Lucia,"2,301",0.00,0
+VCT,Saint Vincent and the Grenadines,"1,583",0.00,0
+WSM,Samoa,"2,880",0.00,0
+STP,São Tomé and Príncipe,"3,200",0.00,0
+SAU,Saudi Arabia,59,0.00,0
+SEN,Senegal,686,0.85,16.28
+SYC,Seychelles,"2,330",0.00,0
+SLE,Sierra Leone,"2,526",0.11,0.5
+SGP,Singapore,"2,497",0.00,0
+SVK,Slovakia,824,0.00,0
+SVN,Slovenia,"1,162",0.00,0
+SLB,Solomon Islands,"3,028",0.00,0
+SOM,Somalia,282,0.56,24.53
+ZAF,South Africa,495,0.94,65.03
+#N/A,South Korea,"1,274",0.00,0
+SSD,South Sudan,900,0.41,4.23
+ESP,Spain,636,0.00,0
+LKA,Sri Lanka,"1,712",0.00,0
+SDN,Sudan,250,0.52,118.66
+SUR,Suriname,"2,331",0.98,3.95
+SWE,Sweden,624,0.00,0
+CHE,Switzerland,"1,537",0.00,0
+#N/A,Syria,252,0.00,0
+TJK,Tajikistan,691,0.00,0
+TZA,Tanzania,"1,071",0.61,12.96
+THA,Thailand,"1,622",0.00,0
+TGO,Togo,"1,168",0.20,0
+TTO,Trinidad and Tobago,"2,200",0.00,20.33
+TUN,Tunisia,207,0.79,98.11
+TUR,Turkey,593,0.00,0
+TKM,Turkmenistan,161,0.00,0
+UGA,Uganda,"1,180",0.17,5.83
+UKR,Ukraine,565,0.00,0
+ARE,United Arab Emirates,78,0.00,0
+#N/A,United Kingdom,"1,220",0.00,0
+#N/A,United States,715,0.00,0
+URY,Uruguay,"1,300",0.00,0
+UZB,Uzbekistan,206,0.00,0
+VUT,Vanuatu,"2,000",0.00,0
+#N/A,Venezuela,"2,044",0.00,0
+#N/A,Vietnam,"1,821",0.00,0
+YEM,Yemen,167,0.00,0
+ZMB,Zambia,"1,020",0.65,2.84
+ZWE,Zimbabwe,657,0.30,35.41
