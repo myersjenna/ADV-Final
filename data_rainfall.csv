@@ -16,7 +16,7 @@ BRB,Barbados,"1,422",0.00,0
 BLR,Belarus,618,0.00,0
 BEL,Belgium,847,0.00,0
 BLZ,Belize,"1,705",0.00,0
-BEN,Benin,"1,039",0.00,0
+BEN,Benin,"1,039",0.30,0
 BTN,Bhutan,"2,200",0.00,0
 #N/A,Bolivia,"1,146",0.00,0
 BIH,Bosnia and Herzegovina,"1,028",0.00,0
@@ -94,7 +94,7 @@ LVA,Latvia,667,0.00,0
 LBN,Lebanon,661,0.00,0
 LSO,Lesotho,788,0.72,2.57
 LBR,Liberia,"2,391",0.75,0.26
-LBY,Libya,56,1.00,212.2
+LBY,Libya,56,0.32,212.2
 LTU,Lithuania,656,0.00,0
 LUX,Luxembourg,934,0.00,0
 MDG,Madagascar,"1,513",0.21,11.26
